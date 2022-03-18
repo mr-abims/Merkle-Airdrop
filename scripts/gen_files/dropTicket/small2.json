@@ -1,0 +1,11 @@
+{
+    "0x3D98fC3c54fdbB361414C54D095bf3E73fd122ab": {
+        "address": "0x3D98fC3c54fdbB361414C54D095bf3E73fd122ab",
+        "itemID": "1",
+        "amount": "1000"
+    },
+    "dropDetails": {
+        "contractAddress": "0x027Ffd3c119567e85998f4E6B9c3d83D5702660c",
+        "merkleroot": "0x91f618a227df3c5155c00ee5cc960e9f54c3d654161b0da1e60485cfdeda4cc0"
+    }
+}
